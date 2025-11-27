@@ -1,0 +1,15 @@
+TASK: Create a Manim animation.
+
+OBJECTS:
+- List each visual object on its own line.
+- For each object, mention:
+  - type (circle, rectangle, text, arrow, axes, etc.)
+  - position (x, y)
+  - size or length if needed
+  - color
+  - any text/label
+
+ANIMATION STEPS:
+1. Describe how and when each object appears.
+2. Describe movements (from which position to which position, and duration).
+3. One step per line, clear enough that Manim code can be written from it.
